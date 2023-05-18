@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Heart Disease Prediction System**
 
-- 🌱 I’m currently learning **ReactJs,DSA**
+- 🌱 I’m currently learning **Flutter,DSA**
 
 - 📫 How to reach me **www.linkedin.com/in/ anshu-131620as**
 
